@@ -1,4 +1,4 @@
-👨‍💻 Authors
+👨‍💻 Authors:
 Fakhar Saleem -
 Huzaifa Naeem
 
