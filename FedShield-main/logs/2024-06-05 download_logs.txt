@@ -1,0 +1,7 @@
+08:30:25.622681	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+08:36:05.903534	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+08:36:09.526600	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+08:36:24.854674	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-06-05 Quarantined_upload_logs.txt
+08:44:01.078240	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+11:24:35.261766	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+11:26:27.490830	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-06-05 upload_logs.txt

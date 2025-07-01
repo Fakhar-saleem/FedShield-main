@@ -1,0 +1,5 @@
+21:54:45.054786	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+21:54:56.189129	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+22:07:19.656937	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-05-28 Login_logs.txt
+22:07:53.990357	Name: 968_afarooq.bese	Function: Downloaded	File_Name: ammar.txt
+22:14:26.999897	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert

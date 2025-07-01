@@ -1,0 +1,9 @@
+22:26:18.557861	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-06-04 Login_logs.txt
+22:29:56.155009	Name: 968_afarooq.bese	Function: Downloaded	File_Name: ammar.txt
+22:30:10.102309	Name: 968_afarooq.bese	Function: Downloaded	File_Name: abc.txt
+22:30:15.707320	Name: 968_afarooq.bese	Function: Downloaded	File_Name: code.txt
+22:43:12.245507	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+22:43:40.058915	Name: 968_afarooq.bese	Function: Downloaded	File_Name: code.txt
+22:43:49.373344	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-05-28 download_logs.txt
+22:44:23.224518	Name: 968_afarooq.bese	Function: Downloaded	File_Name: alert
+22:44:51.409612	Name: 968_afarooq.bese	Function: Downloaded	File_Name: 2024-06-04 Quarantined_upload_logs.txt

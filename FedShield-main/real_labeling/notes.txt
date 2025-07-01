@@ -1,0 +1,6 @@
+- how to check the file for quarantine without sharing it to server becase the check database is on the server
+
+paralle vs dist comp (lec 1)
+slide 49 (lec 4)
+
+bomb

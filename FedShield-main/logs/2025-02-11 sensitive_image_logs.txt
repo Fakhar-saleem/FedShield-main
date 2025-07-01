@@ -1,0 +1,7 @@
+20:44:17.332967	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: CNIC_front.jpeg
+20:48:02.244745	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: download.jpg
+21:58:15.711639	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: download.jpg
+22:29:46.509461	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: ejpt.jpg
+22:36:12.673406	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: ejpt.jpg
+22:41:22.425505	Name: 123_huzaifa.beis	Function: Detected Sensitive Image	File_Name: CNIC_front.jpeg
+22:48:28.605370	Name: 125_Fedshield	Function: Detected Sensitive Image	File_Name: download.jpg
